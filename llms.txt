@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> # python script to generate the lyric text
+> lyrics = """
+> عطرك يسري في دمي كالنار
+> شوقي إليكِ يفوق كل الأسرار
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
