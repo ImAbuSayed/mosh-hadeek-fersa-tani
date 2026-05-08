@@ -1,0 +1,7 @@
+# python script to generate the lyric text
+lyrics = """[Hook (Arabic)]
+[Male]
+عطرك يسري في دمي كالنار
+شوقي إليكِ يفوق كل الأسرار
+خذيني الليلة في حضن العيون
+دعينا نضيع في هذا الجنون
